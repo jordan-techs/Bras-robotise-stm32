@@ -1,5 +1,5 @@
 # Bras-robotise-stm32
-Projet d'asservissement de vitesse, position et d'un bras robotisé avec STM32
+Projet d'asservissement de vitesse et de position d'un bras robotisé avec STM32
 
 Ce projet consiste à concevoir et implémenter un système de commande pour un moteur à courant continu (MCC) pilotant un axe de bras robotisé. Le système inclut une boucle de régulation de vitesse et de position, exploitant les retours d’un encodeur et d’une génératrice tachymétrique.
 
