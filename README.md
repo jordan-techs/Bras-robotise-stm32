@@ -27,7 +27,4 @@ Ce projet consiste à concevoir et implémenter un système de commande pour un 
 
 ## 🖼️ Schéma de principe
 
-![Montage du système](Saved Pictures/schém_fonct_projet)
-
-
-## 📦 Structure du code
+![Montage du système](schém_fonct_projet)
